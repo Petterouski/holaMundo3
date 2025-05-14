@@ -11,6 +11,7 @@ def hola_mundo():
         <head>
             <meta charset="UTF-8">
             <title>Hola Mundo desde HEROKU</title>
+            
             <style>
                 body {
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -38,8 +39,8 @@ def hola_mundo():
         </head>
         <body>
             <h1>🌎 Hola Mundo desde HEROKU</h1>
-            <button onclick="window.location.href='https://www.google.com '">
-                Regresar a Google
+            <button onclick="window.location.href='https://front-paas-production.up.railway.app/ '">
+                Regresar
             </button>
         </body>
         </html>
