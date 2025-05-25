@@ -10,7 +10,7 @@ def hola_mundo():
         <html lang="es">
         <head>
             <meta charset="UTF-8">
-            <title>Hola Mundo desde HEROKU</title>
+            <title>Hola Mundo desde HEROKU :3</title>
             
             <style>
                 body {
